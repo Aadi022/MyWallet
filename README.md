@@ -1,4 +1,4 @@
-# MERN Fund Transfer Project
+# MERN Fund Transfer Wallet Project
 
 ## Project Overview
 This is a full-stack project that showcases money transfer functionality from one user to another. It includes several features such as user signup, user signin, topping-up wallet, transferring money to other accounts, and updating the profile.
